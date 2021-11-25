@@ -1,7 +1,7 @@
 ### HENSHIN!
 はい！かむりです!
 
-![](https://komarev.com/ghpvc/?username=kamuridesu&color=006bed)
+![](https://komarev.com/ghpvc/?username=kamuridesu&color=ff69b4)
 
 DevOps Engineer, in love with programming languages, computers, Science and more!
 
