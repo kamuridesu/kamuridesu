@@ -6,7 +6,7 @@ DevOps Engineer, in love with programming languages, computers, Science and more
 ## Certifications
 <!--START_SECTION:badges-->
 
-[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png)](http://www.credly.com/badges/b83c70a2-dcf5-4cf7-ac0d-992c714a9bdb "HashiCorp Certified: Terraform Associate")
+[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/b83c70a2-dcf5-4cf7-ac0d-992c714a9bdb "HashiCorp Certified: Terraform Associate")
 <!--END_SECTION:badges-->
 
 
