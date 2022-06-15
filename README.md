@@ -2,7 +2,10 @@
 はい！かむりです!
 DevOps Engineer, in love with programming languages, computers, Science and more!
 
-![Metrics](https://github.com/kamuridesu/kamuridesu/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/kamuridesu/kamuridesu/blob/main/github-metrics.svg) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamuridesu/kamuridesu/main/github-metrics.svg">
+</p>
 ## Certifications
 <!--START_SECTION:badges-->
 
