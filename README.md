@@ -1,11 +1,18 @@
-### HENSHIN! ![](https://komarev.com/ghpvc/?username=kamuridesu&color=ff69b4)
-はい！かむりです!
-DevOps Engineer, in love with programming languages, computers, Science and more!
+<h1 align="center">
+  HENSHIN! 
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kamuridesu&color=ff69b4">
+</h1>
+<p align="center">
+  はい！かむりです!
+  DevOps Engineer, in love with programming languages, computers, Science and more!
+</p>
 
 <!-- ![Metrics](https://github.com/kamuridesu/kamuridesu/blob/main/github-metrics.svg) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kamuridesu/kamuridesu/main/github-metrics.svg">
 </p>
+
 ## Certifications
 <!--START_SECTION:badges-->
 
@@ -17,6 +24,8 @@ DevOps Engineer, in love with programming languages, computers, Science and more
 <!-- ![Kamuri's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuridesu&layout=compact&langs_count=8&theme=aura&&exclude_repo=junk-random-scripts) -->
 
 ## Snaek
-![Snake](https://raw.githubusercontent.com/kamuridesu/kamuridesu/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamuridesu/kamuridesu/output/github-contribution-grid-snake.svg">
+</p>
 
 Feel free to chat with me: [@kamuridesu](https://t.me/kamuridesu).
