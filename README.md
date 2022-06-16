@@ -2,6 +2,8 @@
   HENSHIN! 
   <br>
   <img src="https://komarev.com/ghpvc/?username=kamuridesu&color=ff69b4">
+  <br>
+  <img src="https://lastfm-recently-played.vercel.app/api?user=kamuridesu&count=3">
 </h1>
 <p align="center">
   はい！かむりです!
