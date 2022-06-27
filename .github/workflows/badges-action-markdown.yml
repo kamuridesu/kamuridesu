@@ -1,4 +1,6 @@
 on:
+  # allows to manually run the job at any time
+  workflow_dispatch:
   push:
     branches:
       - 'master'
