@@ -21,6 +21,8 @@
 [![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/b83c70a2-dcf5-4cf7-ac0d-992c714a9bdb "HashiCorp Certified: Terraform Associate")
 <!--END_SECTION:badges-->
 
+<!--START_SECTION:stack-->
+<!--END_SECTION:stack-->
 
 <!-- ![Kamuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamuridesu&show_icons=true&count_private=true&theme=aura) -->
 <!-- ![Kamuri's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuridesu&layout=compact&langs_count=8&theme=aura&&exclude_repo=junk-random-scripts) -->
