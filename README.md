@@ -21,6 +21,7 @@
 [![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/b83c70a2-dcf5-4cf7-ac0d-992c714a9bdb "HashiCorp Certified: Terraform Associate")
 <!--END_SECTION:badges-->
 
+## My Current Stack
 <!--START_SECTION:stack-->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
