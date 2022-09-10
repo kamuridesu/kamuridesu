@@ -1,7 +1,7 @@
 <h1 align="center">
   HENSHIN! 
   <br>
-  <img align="center" src=https://count.getloli.com/get/@kamuridesu?theme=moebooru](https://count.getloli.com/get/@kamuridesu?theme=moebooru-h/>
+  <img align="center" src=http://count.kamuridesu.tech?username=kamuridesu](http://count.kamuridesu.tech?username=kamuridesu/>
   <br>
   <img src="https://lastfm-recently-played.vercel.app/api?user=kamuridesu&count=3">
 </h1>
