@@ -52,6 +52,7 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 <!--END_SECTION:stack-->
 
 <!-- ![Kamuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamuridesu&show_icons=true&count_private=true&theme=aura) -->
