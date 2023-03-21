@@ -15,4 +15,4 @@ jobs:
       - name: Update Badges
         uses: kamuridesu/markdown-badges@v0.0.2
         with:
-          BADGES: "Python Java JavaScript 'Shell Script' 'GitHub Actions' 'GitLab CI' Django Flask Node.js Spring AWS Azure 'Google Cloud' 'IntelliJ IDEA' Neovim 'Sublime Text' 'Visual Studio Code' Arch Windows Ansible Docker Jira Kubernetes Terraform Vagrant Jenkins Git Gitea GitHub GitLab"
+          BADGES: "Python Java JavaScript 'Shell Script' 'GitHub Actions' 'GitLab CI' Django Flask Node.js Spring AWS Azure 'Google Cloud' 'IntelliJ IDEA' Neovim 'Sublime Text' 'Visual Studio Code' Arch Windows Ansible Docker Jira Kubernetes Terraform Vagrant Jenkins Git Gitea GitHub GitLab RabbitMQ"
