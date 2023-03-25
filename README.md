@@ -1,7 +1,7 @@
 <h1 align="center">
   HENSHIN! 
   <br>
-  <img align="center" src=http://count.kamuridesu.tech?username=kamuridesu](http://count.kamuridesu.tech?username=kamuridesu/>
+  <img align="center" src=https://count.kamuridesu.com/?username=kamuridesu />
   <br>
 </h1>
 <p align="center">
