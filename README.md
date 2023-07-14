@@ -12,6 +12,8 @@
 <!-- ![Metrics](https://github.com/kamuridesu/kamuridesu/blob/main/github-metrics.svg) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kamuridesu/kamuridesu/main/github-metrics.svg">
+</p>
+<p align="center">
   <img src="https://wakatime.com/badge/user/774779df-6af3-4bbc-bf6d-ae6a00aac7dd.svg" alt="Total time coded since Jan 12 2023" />
 </p>
 
