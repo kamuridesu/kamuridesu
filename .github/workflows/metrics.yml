@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@v4
         with:
           # Your GitHub token
           # The following scopes are required:
