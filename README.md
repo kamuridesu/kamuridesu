@@ -17,14 +17,10 @@
   <img src="https://wakatime.com/badge/user/774779df-6af3-4bbc-bf6d-ae6a00aac7dd.svg" alt="Total time coded since Jan 12 2023" />
 </p>
 
-## Certifications
-<!--START_SECTION:badges-->
-
-[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/b83c70a2-dcf5-4cf7-ac0d-992c714a9bdb "HashiCorp Certified: Terraform Associate (002)")
-<!--END_SECTION:badges-->
-
 ## My Current Stack
+
 <!--START_SECTION:stack-->
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -55,9 +51,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-<!--END_SECTION:stack-->
 
-<!-- ![Kamuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamuridesu&show_icons=true&count_private=true&theme=aura) -->
-<!-- ![Kamuri's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuridesu&layout=compact&langs_count=8&theme=aura&&exclude_repo=junk-random-scripts) -->
+<!--END_SECTION:stack-->
 
 Feel free to chat with me: [@kamuridesu](https://t.me/kamuridesu).
